@@ -9,3 +9,7 @@ board with on-board olympic scoreboard
  5. 데이터 구조 짜기(DB 스키마)
  6. URL 설계하기
  7. 분업하기
+
+# 데이터구조
+ (id, date, contents)
+ 
